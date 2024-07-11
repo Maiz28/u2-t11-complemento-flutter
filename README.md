@@ -13,7 +13,7 @@ print("Hello Word");
 }
 
 - Captura
-  ![alt text](capturas/image.png)
+  https://drive.google.com/file/d/10buvNSETCD1xgSZt2gt-NeEprPSedpN2/view?usp=drive_link
 
 ### **02.Variables**
 
