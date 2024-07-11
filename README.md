@@ -7,7 +7,13 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 ### **01.Hello World**
 
 - Código
+
+void main() {
+print("Hello Word");
+}
+
 - Captura
+  ![alt text](capturas/image.png)
 
 ### **02.Variables**
 
