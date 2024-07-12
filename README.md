@@ -113,7 +113,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
-  ![Captura Hello World](imagenes/imagen6.png)
+  ![Captura Hello World](imagenes/Imagen6.png)
 
 ### **07.Constructors and names**
 
@@ -329,8 +329,11 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 - Código
 
 - Captura
+  ![Captura Hello World](imagenes/imagen17.png)
+  ![Captura Hello World](imagenes/imagen18.png)
 
 ## Aplicación YesOrNo
 
 - Código
 - Captura
+  ![Captura Hello World](imagenes/imagen16.png)
