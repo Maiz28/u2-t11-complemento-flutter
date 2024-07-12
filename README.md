@@ -2,7 +2,7 @@
 
 Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes <br>
 
-## Marisol Núñez Monasterio GIDS4093 <br>
+Marisol Núñez Monasterio GIDS4093 <br>
 
 ## Repositorio con los ejercicios <br>
 
