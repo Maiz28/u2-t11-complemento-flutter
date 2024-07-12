@@ -1,6 +1,7 @@
 # U2-T11: Complemento Flutter
 
 Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
+Repositorio con los ejercicios [Repositorio en GitHub](git@github.com:Maiz28/EjerciciosFluter.git)
 
 ## Ejercicios del 01 al 04
 
@@ -14,7 +15,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   }
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/Imagen1.png)
 
 ### **02.Variables**
@@ -28,7 +29,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   bool isAdult;
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/Imagen2.png)
 
 ### **03.Maps**
@@ -46,8 +47,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   print(verduras);
   ```
 
-- Captura
-
+- Captura <br>
   ![Captura Hello World](imagenes/imagen3.png)
 
 ### **04.List, maps and Iterables**
@@ -77,7 +77,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
    }
   ```
 
-- Captura
+- Captura <br>
 
   ![Captura Hello World](imagenes/imagen3.png)
   ![Captura Hello World](imagenes/Imagen4.png)
@@ -94,7 +94,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   };
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/Imagen5.png)
 
 ### **06.Classes**
@@ -112,7 +112,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
    }
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/Imagen6.png)
 
 ### **07.Constructors and names**
@@ -130,7 +130,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
    }
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/imagen7.png)
 
 ### **08.get and set**
@@ -152,7 +152,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
    }
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/imagen8.png)
 
 ## Ejercicios del 09 al 15
@@ -192,8 +192,8 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 ```
 
 - Captura
-
-![Captura Hello World](imagenes/imagen9.png)
+  <br>
+  ![Captura Hello World](imagenes/imagen9.png)
 
 ### **10.Mixins**
 
@@ -217,7 +217,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 
   ```
 
-  - Captura:
+  - Captura: <br>
     ![Captura Hello World](imagenes/imagen10.png)
 
 11. ### Futures
@@ -240,7 +240,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
     ```
 
 - Captura
-
+  <br>
   ![Captura Hello World](imagenes/imagen11.png)
 
 ### **12.Async Await**
@@ -261,7 +261,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
-
+  <br>
   ![Captura Hello World](imagenes/imagen12.png)
 
 ### **13.Try catch finally**
@@ -283,7 +283,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   }
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/imagen13.png)
 
 ### **14.Streams**
@@ -304,7 +304,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   }
   ```
 
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/imagen15.png)
 
 ### **15.Stream await**
@@ -321,19 +321,19 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
     }
   ```
 - Captura
-
+  <br>
   ![Captura Hello World](imagenes/imagen14.png)
 
 ## Aplicación HelloWorld
 
 - Código
-
-- Captura
+  [Repositorio en GitHub](git@github.com:Maiz28/helloWord.git)
+- Captura <br>
   ![Captura Hello World](imagenes/imagen17.png)
   ![Captura Hello World](imagenes/imagen18.png)
 
 ## Aplicación YesOrNo
 
-- Código
+- Código [Repositorio en GitHub](git@github.com:Maiz28/yesorno.git)
 - Captura <br>
   ![Captura Hello World](imagenes/imagen16.png)
