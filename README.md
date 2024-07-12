@@ -113,7 +113,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
-  ![Captura Hello World](imagenes/imagen6 .png)
+  ![Captura Hello World](imagenes/imagen6.png)
 
 ### **07.Constructors and names**
 
