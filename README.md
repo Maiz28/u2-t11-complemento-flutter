@@ -2,7 +2,7 @@
 
 Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 Repositorio con los ejercicios
-[Link a HelloWorld App](https://github.com/Maiz28/EjerciciosFluter)
+[Link a Ejercicios flutter](https://github.com/Maiz28/EjerciciosFluter)
 
 ## Ejercicios del 01 al 04
 
@@ -336,7 +336,7 @@ Repositorio con los ejercicios
 ## Aplicación YesOrNo
 
 - Código
-  [Link a HelloWorld App](https://github.com/Maiz28/yesorno)
+  [Link a YesOrNo ](https://github.com/Maiz28/yesorno)
 
 - Captura <br>
   ![Captura Hello World](imagenes/imagen16.png)
