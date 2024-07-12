@@ -48,7 +48,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 
 - Captura
 
-  ![Captura Hello World](imagenes/Imagen3.png)
+  ![Captura Hello World](imagenes/imagen3.png)
 
 ### **04.List, maps and Iterables**
 
@@ -79,7 +79,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 
 - Captura
 
-  ![Captura Hello World](imagenes/Imagen3.png)
+  ![Captura Hello World](imagenes/imagen3.png)
   ![Captura Hello World](imagenes/Imagen4.png)
 
 ## Ejercicios del 05 al 08
@@ -117,11 +117,39 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 ### **07.Constructors and names**
 
 - Código
+
+  ```dart
+   // Constructor
+   Coche(this.marca, this._modelo, this._year);
+
+   // Constructor con marca
+   Coche.soloMarca(this.marca) {
+       _modelo = 'Desconocido';
+       _year = 0;
+   }
+  ```
+
 - Captura
 
 ### **08.get and set**
 
 - Código
+
+  ```dart
+   // Getters
+   String get modelo => _modelo;
+   int get year => _year;
+
+   // Setters
+   set nombre(String modelo) {
+    _modelo = modelo;
+   }
+
+   set edad(int year) {
+    _year = year;
+   }
+  ```
+
 - Captura
 
 ## Ejercicios del 09 al 15
@@ -129,36 +157,182 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 ### **09.Abstract class**
 
 - Código
+
+```dart
+   abstract class Figura {
+       double calcularArea();
+   }
+
+   class Circulo extends Figura {
+       double radio;
+
+       Circulo(this.radio);
+
+       @override
+       double calcularArea() {
+           //pi * radio*radio
+           return 3.14 * radio * radio;
+       }
+   }
+
+   class Rectangulo extends Figura {
+       double ancho, alto;
+
+       Rectangulo(this.ancho, this.alto);
+
+       @override
+       double calcularArea() {
+           //ancho*alto
+           return ancho * alto;
+       }
+   }
+```
+
 - Captura
 
 ### **10.Mixins**
 
 - Código
+
+       ```dart
+
+  //Definir un mixin
+  mixin Volador {
+  void volar() {
+  print("Estoy volando");
+  }
+  }
+
+  mixin Corredor {
+  void correr() {
+  print("Estoy corriendo");
+  }
+  }
+
+  class Pajaro with Volador, Corredor {}
+
+  ```
+
+  - Captura:
+
+  ![mixinsResult](images/image-17.png)
+  ```
+
+11. ### Futures
+
+    - Código:
+
+    ```dart
+    void main() {
+        print("");
+        print("Inicio del programa");
+
+        Future(() {
+            return 'Hola mundo!';
+        }).then((resultado) {
+            print(resultado);
+        });
+
+        print("Fin del programa");
+    }
+    ```
+
 - Captura
 
 ### **11.Futures**
 
 - Código
+
+  ```dart
+   void main() {
+       print("");
+       print("Inicio del programa");
+
+       Future(() {
+           return 'Hola mundo!';
+       }).then((resultado) {
+           print(resultado);
+       });
+
+       print("Fin del programa");
+   }
+  ```
+
 - Captura
 
 ### **12.Async Await**
 
 - Código
+
+  ```dart
+  void main() async {
+      print("Inicio del programa");
+
+      String resultado = await Future(() {
+          return "Hola mundo!";
+      });
+
+      print(resultado);
+      print('Fin del programa');
+  }
+  ```
+
 - Captura
 
 ### **13.Try catch finally**
 
 - Código
+
+  ```dart
+  void main() {
+      try {
+          //int resultado = 10 ~/ 2; //Resultado
+          int resultado = 10 ~/ 0; //Error
+          print("El resultado es $resultado");
+      } catch (e, s) {
+          print("Se produjo una excepción $e");
+          print("Su descripción es $s");
+      } finally {
+          print("Procura no dividir entre cero");
+      }
+  }
+  ```
+
 - Captura
 
 ### **14.Streams**
 
 - Código
+
+  ```dart
+  void main() {
+      Stream<int> stream =
+          Stream<int>.periodic(Duration(seconds: 1), (count) => count)
+              .take(5); //Stream.periodic
+      stream.listen((data) => print('Data recibida: $data'));
+
+      Stream<int> otroStream = Stream.fromIterable([6, 7, 8, 9, 10]);
+      otroStream.listen((data) {
+          print("Data recibida: $data");
+      });
+  }
+  ```
+
 - Captura
 
 ### **15.Stream await**
 
 - Código
+  ```dart
+    void main() async {
+    Stream<int> stream =
+        Stream.periodic(Duration(seconds: 1), (contador) => contador)
+            .take(5); //Stream periodic
+    await for (var data in stream) {
+        print("Data recibida: $data");
+    }
+    }
+  ```
 - Captura
 
 ## Aplicación HelloWorld
