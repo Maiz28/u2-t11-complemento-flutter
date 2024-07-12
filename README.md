@@ -113,6 +113,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
+  ![Captura Hello World](imagenes/imagen6 .png)
 
 ### **07.Constructors and names**
 
@@ -198,8 +199,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 
 - Código
 
-       ```dart
-
+  ```dart
   //Definir un mixin
   mixin Volador {
   void volar() {
@@ -218,8 +218,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
   - Captura:
-  ![Captura Hello World](imagenes/imagen10.png)
-  ```
+    ![Captura Hello World](imagenes/imagen10.png)
 
 11. ### Futures
 
@@ -328,6 +327,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 ## Aplicación HelloWorld
 
 - Código
+
 - Captura
 
 ## Aplicación YesOrNo
