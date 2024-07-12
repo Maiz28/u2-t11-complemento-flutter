@@ -130,6 +130,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
+  ![Captura Hello World](imagenes/imagen7.png)
 
 ### **08.get and set**
 
@@ -151,6 +152,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
+  ![Captura Hello World](imagenes/imagen8.png)
 
 ## Ejercicios del 09 al 15
 
@@ -190,6 +192,8 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 
 - Captura
 
+![Captura Hello World](imagenes/imagen9.png)
+
 ### **10.Mixins**
 
 - Código
@@ -214,8 +218,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
   - Captura:
-
-  ![mixinsResult](images/image-17.png)
+  ![Captura Hello World](imagenes/imagen10.png)
   ```
 
 11. ### Futures
@@ -239,26 +242,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 
 - Captura
 
-### **11.Futures**
-
-- Código
-
-  ```dart
-   void main() {
-       print("");
-       print("Inicio del programa");
-
-       Future(() {
-           return 'Hola mundo!';
-       }).then((resultado) {
-           print(resultado);
-       });
-
-       print("Fin del programa");
-   }
-  ```
-
-- Captura
+  ![Captura Hello World](imagenes/imagen11.png)
 
 ### **12.Async Await**
 
@@ -278,6 +262,8 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
+
+  ![Captura Hello World](imagenes/imagen12.png)
 
 ### **13.Try catch finally**
 
@@ -299,6 +285,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
+  ![Captura Hello World](imagenes/imagen13.png)
 
 ### **14.Streams**
 
@@ -319,6 +306,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
   ```
 
 - Captura
+  ![Captura Hello World](imagenes/imagen15.png)
 
 ### **15.Stream await**
 
@@ -334,6 +322,8 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
     }
   ```
 - Captura
+
+  ![Captura Hello World](imagenes/imagen14.png)
 
 ## Aplicación HelloWorld
 
