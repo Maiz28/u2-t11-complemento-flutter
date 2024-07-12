@@ -1,7 +1,8 @@
 # U2-T11: Complemento Flutter
 
 Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
-Repositorio con los ejercicios [Repositorio en GitHub](git@github.com:Maiz28/EjerciciosFluter.git)
+Repositorio con los ejercicios
+[Link a HelloWorld App](https://github.com/Maiz28/EjerciciosFluter)
 
 ## Ejercicios del 01 al 04
 
@@ -327,13 +328,15 @@ Repositorio con los ejercicios [Repositorio en GitHub](git@github.com:Maiz28/Eje
 ## Aplicación HelloWorld
 
 - Código
-  [Repositorio en GitHub](git@github.com:Maiz28/helloWord.git)
+  [Link a HelloWorld App](https://github.com/Maiz28/helloWord)
 - Captura <br>
   ![Captura Hello World](imagenes/imagen17.png)
   ![Captura Hello World](imagenes/imagen18.png)
 
 ## Aplicación YesOrNo
 
-- Código [Repositorio en GitHub](git@github.com:Maiz28/yesorno.git)
+- Código
+  [Link a HelloWorld App](https://github.com/Maiz28/yesorno)
+
 - Captura <br>
   ![Captura Hello World](imagenes/imagen16.png)
