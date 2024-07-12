@@ -1,7 +1,11 @@
 # U2-T11: Complemento Flutter
 
-Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
-Repositorio con los ejercicios
+Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes <br>
+
+## Marisol Núñez Monasterio GIDS4093 <br>
+
+## Repositorio con los ejercicios <br>
+
 [Link a Ejercicios flutter](https://github.com/Maiz28/EjerciciosFluter)
 
 ## Ejercicios del 01 al 04
