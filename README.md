@@ -4,7 +4,7 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes <
 
 Marisol Núñez Monasterio GIDS4093 <br>
 
-## Repositorio con los ejercicios <br>
+## Repositorio con los ejercicios del 1 al 15 <br>
 
 [Link a Ejercicios flutter](https://github.com/Maiz28/EjerciciosFluter)
 
