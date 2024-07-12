@@ -335,5 +335,5 @@ Portafolio de evidencias para la clase Desarrollo de Dispositivos Inteligentes
 ## Aplicación YesOrNo
 
 - Código
-- Captura
+- Captura <br>
   ![Captura Hello World](imagenes/imagen16.png)
